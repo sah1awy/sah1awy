@@ -19,7 +19,4 @@
 <a href="https://www.linkedin.com/in/ahmed-mahmoud-966399245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-mahmoud-966399245" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/sah1awy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sah1awy" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sahlawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sahlawy" height="30" width="40" /></a>
-<a href="https://twitter.com/sah1awy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sah1awy" height="30" width="40" /></a>
 <a href="https://instagram.com/axionc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axionc" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/axionc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="axionc" height="30" width="40" /></a>
-</p>
