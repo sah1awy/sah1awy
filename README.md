@@ -1,10 +1,7 @@
 <h1 align="center">Hi My name is Ahmed Mahmoud</h1>
 
-<h3 align="center">A Guy who is interested in AI</h3>
 <div align="center">
  <p>&bull; I'm a student at Faculty of Computers and Informatics Zagazig University, Department of AI & Data Science</p>
- <p>&bull; I'm a data scientist skilled in extracting insights from the data and building models</p>
- <p>&bull; I'm currently learning MLops, AWS</p>
  </div>
 
  
